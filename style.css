@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+.app-title {
+  text-align: center;
+  font-family: 'quicksand';
+  font-weight: 900;
+}
+
+.container {
+  margin-top: 7rem;
+  background-color: white;
+}
+
+#myTable {
+  padding: 40px;
+  -webkit-box-shadow: 5px 5px 15px 6px rgba(0, 0, 0, 0.67);
+  box-shadow: 5px 5px 15px 6px rgba(0, 0, 0, 0.67);
+}
+
+#myTable > thead > tr > th {
+  font-family: 'quicksand' ;
+  font-weight: bold ;
+  font-size: 22px ;
+}
+
+#myTable > tbody > tr > td {
+  font-family:'quicksand' ;
+  font-size:17px;
+}
+  
+    
+  
+
+
